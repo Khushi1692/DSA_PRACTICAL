@@ -17,4 +17,11 @@
 | Cyclically rotate an array by one | <a href="https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/rotate.java"> Link  |
 | Print Elements of Array | <a href="https://practice.geeksforgeeks.org/problems/print-elements-of-array4910/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/printArray.java"> Link  |
 
+<b>DAY-3 ARRAY</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Play With OR  | <a href="https://practice.geeksforgeeks.org/problems/play-with-or5515/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/playing_with_or.java"> Link  |
+| Game with nos | <a href="https://practice.geeksforgeeks.org/problems/game-with-nos3123/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/game_with_nos.java"> Link  |
+| Product of maximum in first array and minimum in second | <a href="https://practice.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/find_multiplication.java"> Link  |
 
