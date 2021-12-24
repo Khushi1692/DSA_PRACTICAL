@@ -33,3 +33,13 @@
 | Minimum number to form the sum even  | <a href="https://practice.geeksforgeeks.org/problems/minimum-number-to-form-the-sum-even0326/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/minNum_toform_sumeven.java"> Link  |
 | Wave Array | <a href="https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/wavearray.java"> Link  |
 |Ishaan Loves Chocolates  | <a href="https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/ishann_loves_chocolates.java"> Link  |
+
+<b>DAY-5 ARRAY</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Balanced Array  | <a href="https://practice.geeksforgeeks.org/problems/balanced-array07200720/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/balanced_array.java"> Link  |
+| Form a number divisible by 3 using array digits | <a href="https://practice.geeksforgeeks.org/problems/form-a-number-divisible-by-3-using-array-digits0717/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/divsible_by_three.java"> Link  |
+| Fighting the darkness | <a href="https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/fighting_the_darkness.java"> Link  |
+| Number of occurrence | <a href="https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/number_of_occurrence.java"> Link  |
+
