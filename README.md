@@ -43,3 +43,9 @@
 | Fighting the darkness | <a href="https://practice.geeksforgeeks.org/problems/fighting-the-darkness3949/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/fighting_the_darkness.java"> Link  |
 | Number of occurrence | <a href="https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/number_of_occurrence.java"> Link  |
 
+<b>DAY-6 ARRAY</b>
+      
+   | Problem Statement | Question  | Solution  |
+| :---:   | :-: | :-: |
+| Sort an array of 0s, 1s and 2s | <a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/sortarray_of_012.java"> Link  |
+| Java 1-d and 2-d Array | <a href="https://practice.geeksforgeeks.org/problems/java-1-d-and-2-d-array2952/1"> Link | <a href="https://github.com/Khushi1692/DSA_PRACTICAL/blob/main/array/java1-d_and_2-d.java"> Link  |
